@@ -5,5 +5,7 @@ A C++ program to simulate post office waiting line and generate simple statistic
 
 TODO
 
-[] Item 1
-[] Item 2
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> are supported
+- [x] list syntax is required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
